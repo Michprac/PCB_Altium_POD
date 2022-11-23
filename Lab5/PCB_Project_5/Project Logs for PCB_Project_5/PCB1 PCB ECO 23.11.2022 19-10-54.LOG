@@ -1,0 +1,11 @@
+Change Component Description : Designator=R1 Old Description=RES Thick Film, 20k?, 1%, 0.75W, 100ppm/°C, 2010 New Description=RES Thick Film, 20k?, 1%, 0.75W, 100ppm/°C, 2010
+Change Component Description : Designator=R2 Old Description=RES Thick Film, 20k?, 1%, 0.75W, 100ppm/°C, 2010 New Description=RES Thick Film, 20k?, 1%, 0.75W, 100ppm/°C, 2010
+Change Managed Component Library Link : Designator=C1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=BB0608EB-0FA9-42D2-BDC0-210C7712554B Old RevisionGUID= New RevisionGUID=4693FFC8-4305-46EB-909E-A7FD24550B94
+Change Managed Component Library Link : Designator=J1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=F4899A3F-A1B5-4764-973F-C105B9CAC120 Old RevisionGUID= New RevisionGUID=60673478-3015-4D49-8C0D-32E7C044155D
+Change Managed Component Library Link : Designator=J2 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=D17EFB37-EBB2-4D11-9CF3-733F018BDDB9 Old RevisionGUID= New RevisionGUID=A8EA7F29-F380-4C0D-8FB6-7B446BCAE620
+Change Managed Component Library Link : Designator=R1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=8ECFD2EB-6D4D-45ED-A040-34437CED9B3B Old RevisionGUID= New RevisionGUID=E82D45A8-6362-4EDE-B368-FB7B18D29DF4
+Change Managed Component Library Link : Designator=R2 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=8ECFD2EB-6D4D-45ED-A040-34437CED9B3B Old RevisionGUID= New RevisionGUID=E82D45A8-6362-4EDE-B368-FB7B18D29DF4
+Change Managed Component Library Link : Designator=R3 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=D32044A7-6448-40A5-AB6E-F7ADD400AC7A Old RevisionGUID= New RevisionGUID=872AF35D-C9EA-476D-BD72-A582E867D8EF
+Change Managed Component Library Link : Designator=R4 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=D32044A7-6448-40A5-AB6E-F7ADD400AC7A Old RevisionGUID= New RevisionGUID=872AF35D-C9EA-476D-BD72-A582E867D8EF
+Added Component: Designator=A1(Antena2)
+Added Member To Class: ClassName=Sheet1 Member=Component A1 Antena

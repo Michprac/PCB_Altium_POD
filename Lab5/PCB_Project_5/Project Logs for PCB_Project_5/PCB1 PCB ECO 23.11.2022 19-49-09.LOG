@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=Sheet1 Member=A1
+Added Component: Designator=*(Antena2)
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=R3-2
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=R4-2
+Added Net: Name=Net*_2
+Added Member To Class: ClassName=Sheet1 Member=Component * Antena
+Added Room: Name=Sheet1
